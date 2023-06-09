@@ -26,7 +26,7 @@ export default {
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="user in users" :key="user.id">
+                <tr v-for="user in users">
                     <td>{{user.firstName}} {{user.lastName}}</td>
                     <td>{{user.email}}</td>
                     <td>{{user.role}}</td>
