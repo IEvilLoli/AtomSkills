@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import HelloWorld from './components/Autorization.vue'
+import Autorization from './components/Autorization.vue'
 </script>
 
 <template>
